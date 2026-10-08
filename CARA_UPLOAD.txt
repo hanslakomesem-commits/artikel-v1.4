@@ -1,0 +1,18 @@
+ZAIN.NET — CARA UPLOAD V1.3 KE GITHUB PAGES
+
+1. Extract ZIP.
+2. Buka repository GitHub Anda.
+3. Upload semua file dari folder ini LANGSUNG ke root repository (jangan upload folder pembungkusnya).
+4. Commit changes.
+5. Settings -> Pages.
+6. Pilih Deploy from a branch -> main -> /(root) -> Save.
+7. Tunggu deployment selesai, lalu Ctrl+F5 pada website.
+
+File utama yang harus terlihat di root:
+index.html
+app.js
+article-ai.js
+docx-engine.js
+local-translator.js
+styles.css
+jszip.min.js
